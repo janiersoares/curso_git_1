@@ -6,4 +6,3 @@ for numero in numeros:
 
     print(numero)
 
-print(numeros)
