@@ -3,4 +3,7 @@ print(42 * 6)
 numeros = 1, 2, 3
 
 for numero in numeros:
-  print(numero)
+
+    print(numero)
+
+print(numeros)
