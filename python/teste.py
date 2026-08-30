@@ -17,3 +17,5 @@ if 'a' in nome:
     print(nome)
 else:
     print('sem nome')
+
+print('bomdia')
