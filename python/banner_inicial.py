@@ -1,0 +1,3 @@
+variavel = 'janier'
+
+print(variavel)
