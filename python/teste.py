@@ -12,3 +12,5 @@ for numero in numeros:
     print(numeros)
 
 print('olá janier')
+
+variavel = 'janir'
