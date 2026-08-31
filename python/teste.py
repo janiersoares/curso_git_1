@@ -10,3 +10,7 @@ numeros = 1, 2, 3
 
 for numero in numeros:
     print(numeros)
+
+print('olá janier')
+
+variavel = 'janir'
